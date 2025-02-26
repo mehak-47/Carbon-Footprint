@@ -1,2 +1,2 @@
 # Carbon-Footprint
-A C console app that estimates CO₂ emissions based on energy use, transport, and waste, offering reduction tips.
+A C-based console application that calculates an individual's carbon footprint based on electricity usage, transportation, air travel, and waste production. It estimates CO₂ emissions for weekly, monthly, or yearly periods and provides recommendations to reduce environmental impact.
